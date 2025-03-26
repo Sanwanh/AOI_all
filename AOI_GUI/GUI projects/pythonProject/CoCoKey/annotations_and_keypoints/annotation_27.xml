@@ -1,0 +1,1 @@
+<annotation><filename>annotation_27.jpg</filename><size><width>1920</width><height>1080</height></size><object><name>Solar_energy</name><keypoints>491.17,111.47,2,1444.42,51.87,2,1511.3,1014.97,2,546.88,1077.79,0</keypoints><bndbox><xmin>491</xmin><ymin>51</ymin><xmax>1511</xmax><ymax>1014</ymax></bndbox></object></annotation>
